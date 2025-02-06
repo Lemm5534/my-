@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giới thiệu về Trường</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Chào mừng đến với Trường FPT Quy Nhơn</h1>
+        <nav>
+            <ul>
+                <li><a href="#gioithieu">Giới thiệu</a></li>
+                <li><a href="#hocphi">Học phí</a></li>
+                <li><a href="#lienhe">Liên hệ</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="gioithieu">
+        <h2>Giới thiệu</h2>
+        <p>Trường FPT Quy Nhơn là một môi trường học tập hiện đại, cung cấp các chương trình đào tạo chất lượng.</p>
+    </section>
+
+    <section id="hocphi">
+        <h2>Học phí</h2>
+        <p>Học phí được thiết kế linh hoạt để phù hợp với mọi học viên. Vui lòng liên hệ để biết thêm chi tiết.</p>
+    </section>
+
+    <section id="lienhe">
+        <h2>Liên hệ</h2>
+        <p>Email: contact@fptquynhon.edu.vn</p>
+        <p>Điện thoại: 0123 456 789</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Trường FPT Quy Nhơn - Mọi quyền được bảo lưu.</p>
+    </footer>
+</body>
+</html>
